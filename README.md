@@ -1,2 +1,7 @@
 # markdown_aefingar
-Æfingar í markdown
+##Æfingar í markdown
+
+
+
+**Fjölnir**
+Tskóli
