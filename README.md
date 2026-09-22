@@ -14,7 +14,7 @@ Tskóli
 
 Heimasíða Tækniskólans er [hér](https://tskoli.is/)
 
-Hér er mynd: ![hér má koma lýsing]https://tskoli.is/wp-content/uploads/2019/06/20190612_133650-1-e1560348953479.jpg
+Hér er mynd: ![hér má koma lýsing](https://tskoli.is/wp-content/uploads/2019/06/20190612_133650-1-e1560348953479.jpg)
 
 
 ####
